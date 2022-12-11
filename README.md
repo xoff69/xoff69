@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xoff69
 - 👀 I’m interested in java,python, physics, chess
-- 🌱 I’m currently learning camunda
+- 🌱 I’m currently learning ruby
 
 
 <!---
