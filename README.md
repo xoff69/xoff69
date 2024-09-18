@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @xoff69
-- 👀 I’m interested in java,python, physics, chess
-- 🌱 I’m currently learning ruby
+- 👋 Hi, I’m @xoff69 aka Christophe
+- 👀 I’m interested in java, python, physics, litterature and chess
+- 🌱 I am currently learning vue.js
 
 
 <!---
